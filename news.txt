@@ -1,13 +1,6 @@
-§6§lDEATHAWAITS
+          §6§lDEATHAWAITS
 
-§fBem-Vindo ao §c§lDeathAwaits§f!
+       §fBem-Vindo ao §c§lDeathAwaits§f!
 
-§aSERVIDOR ONLINE
+           §aSERVIDOR ONLINE
 
-§eNOVIDADES
-
-§7O servidor esta novamente §areaberto§7.
-
-§cIMPORTANTE
-
-§fAcompanhe as novidades do servidor.
