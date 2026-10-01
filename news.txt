@@ -1,16 +1,13 @@
 §6§lDEATHAWAITS
 
-§fBem-vindo ao §c§lDeathAwaits§f!
+§fBem-Vindo ao §c§lDeathAwaits§f!
 
-§7O servidor está novamente §areaberto§7.
-§7Prepare-se para sobreviver ao apocalipse.
+§aSERVIDOR ONLINE
 
-§e§lNOVIDADES
-§f• §7Novos conteúdos estão sendo preparados.
-§f• §7Acompanhe as próximas atualizações.
-§f• §7Entre no Discord para ficar por dentro das novidades.
+§eNOVIDADES
 
-§c§lIMPORTANTE
-§fRespeite as regras do servidor e boa sobrevivência!
+§7O servidor esta novamente §areaberto§7.
 
-§8DeathAwaits — §7Sobreviva. Conquiste. Domine.
+§cIMPORTANTE
+
+§fAcompanhe as novidades do servidor.
