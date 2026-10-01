@@ -1,0 +1,41 @@
+{
+  "remote": "https://otaviocolela.github.io/DeathAwaits-news/craftingdead.json",
+
+  "resource-pack": {
+    "url": "https://otaviocolela.github.io/DeathAwaits-news/craftingdead.zip",
+    "hash": ""
+  },
+
+  "team": {
+    "url": "",
+    "hash": ""
+  },
+
+  "servers": {
+    "US": [
+      ""
+    ],
+    "EU": [
+      ""
+    ],
+    "BR": [
+      ""
+    ]
+  },
+
+  "master-server-host": "",
+  "master-server-port": 25565,
+
+  "display-presents": false,
+
+  "website": "https://otaviocolela.github.io/DeathAwaits-news/",
+  "store": "https://otaviocolela.github.io/DeathAwaits-news/",
+  "maps": "https://otaviocolela.github.io/DeathAwaits-news/",
+  "discord": "SEU-DISCORD",
+
+  "capes-url": "https://otaviocolela.github.io/DeathAwaits-news/capes.json",
+
+  "news-url": "https://otaviocolela.github.io/DeathAwaits-news/news.html",
+
+  "capes": {}
+}
