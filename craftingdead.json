@@ -13,13 +13,13 @@
 
   "servers": {
     "US": [
-      ""
+      "node.skycenterhosting.com.br:25567"
     ],
     "EU": [
-      ""
+      "node.skycenterhosting.com.br:25567"
     ],
     "BR": [
-      "twawki.club"
+      "node.skycenterhosting.com.br:25567"
     ]
   },
 
